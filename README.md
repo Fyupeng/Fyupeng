@@ -7,6 +7,7 @@
 ### 我的开源项目：
 ### 校园项目
 - 基于 Nacos 的 [RPC](https://github.com/Fyupeng/rpc-netty-framework) 分布式微服务框架
+- 基于 ZooKeeper 注册中心的 [短视频]() 微信小程序
 
 ### 我的博客：
 
