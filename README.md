@@ -10,9 +10,9 @@
 
 ### 我的博客：
 
-- [CSDN](https://blog.csdn.net/F15217283411)
+- [CSDN](https://blog.csdn.net/F15217283411)（侧重点学习遇到的难题如何解决的点滴记录、环境部署遇到的问题、算法刷题等等）
 
-- [51CTO](https://blog.51cto.com/fyphome)
+- [51CTO](https://blog.51cto.com/fyphome)（侧重点在于学习笔记记录等等）
 
-- [个人博客](http://120.76.217.185:8080/classfication)
+- [个人博客](http://120.76.217.185:8080/classfication)（放了一些个人刷过的leetcode算法常见题型，特点是支持手机端随时查看）
 
