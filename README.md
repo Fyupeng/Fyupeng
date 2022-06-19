@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Fyupeng/Fyupeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名程序员小白Fyupeng，目前还处于学习阶段，争取早日脱凡入神（经）。
 
-Here are some ideas to get you started:
+我的公众号[Tony有话说](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/image-20220619165119970.png)目前同步学习相关文章，文章内容深入浅出。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 我的开源项目：
+
+### 我的博客：
+
+- [CSDN](https://blog.csdn.net/F15217283411)
+
+- [51CTO](https://blog.51cto.com/fyphome)
+
+- [个人博客](http://120.76.217.185:8080/classfication)
+
