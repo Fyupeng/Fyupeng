@@ -5,6 +5,8 @@
 我的公众号[Tony有话说](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/image-20220619165119970.png)目前同步学习相关文章，文章内容深入浅出。
 
 ### 我的开源项目：
+### 校园项目
+- 基于 Nacos 的 [RPC](https://github.com/Fyupeng/rpc-netty-framework) 分布式微服务框架
 
 ### 我的博客：
 
