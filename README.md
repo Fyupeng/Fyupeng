@@ -19,5 +19,5 @@
 
 - [51CTO](https://blog.51cto.com/fyphome)（侧重点在于学习笔记记录等等）
 - [博客园](https://www.cnblogs.com/fyphome/)（侧重点在于收藏大佬的技术文章）
-- [个人博客](http://120.76.217.185:8080/classfication)（放了一些个人刷过的 leetcode 算法常见题型，特点是支持手机端随时查看）
+- [个人博客](http://120.76.217.185:8080/classfication)（放了一些个人刷过的 `leetcode` 算法常见题型，特点是支持手机端随时查看）
 
