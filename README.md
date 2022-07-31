@@ -6,10 +6,10 @@
 
 ### 技术栈
 ![Springboot](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Spring.png)![MySQL](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/MySQL.png)![Java](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Java.png)
-![Redis](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Redisss.png)
+![Redis](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Redis.png)
 
 
-Springboot MySQL Java Redis
+
 ### 开源项目
 ### 校园项目:
 - 基于 `Nacos` 的 [RPC](https://github.com/Fyupeng/rpc-netty-framework) 分布式微服务框架
