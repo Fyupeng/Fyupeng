@@ -6,7 +6,7 @@
 
 ### 技术栈
 ![Springboot](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Spring.png)![MySQL](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/MySQL.png)![Java](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Java.png)
-![Redis](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Redisss.png)
+![Redis](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Redis.png)
 
 
 
