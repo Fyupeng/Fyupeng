@@ -10,7 +10,7 @@
 ![MongoDB](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/MongoDB.png)
 
 ![SpringBoot](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/SpringBoot.png)
-![Vue111](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Vue.png)
+![Vue](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Vue.png)
 
 
 
