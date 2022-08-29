@@ -16,6 +16,7 @@
 
 ### 开源项目
 ### 校园项目:
+- 基于`SpringBoot` + `Rpc-Netty-Framework`的[分布式博客](https://github.com/fyupeng/distributed-blog-system-api)管理后端api项目
 - 基于 `Nacos` 的 [RPC](https://github.com/Fyupeng/rpc-netty-framework) 分布式微服务框架
 - 基于 `ZooKeeper` 注册中心的 短视频微信小程序 [api 接口](https://github.com/Fyupeng/tony-videos-dev) 和 [后台管理](https://github.com/fyupeng/tony-videos-admin) 项目
 - [咖啡订餐系统](https://github.com/Fyupeng/coffee) `vue`+`vant`实现的移动网页端
