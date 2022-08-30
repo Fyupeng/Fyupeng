@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是一名程序员小白fyupeng，目前还处于学习阶段，有不足之处，还请包涵。
+我是一名程序员小白 fyupeng，目前还处于学习阶段，有不足之处，还请包涵。
 
 我的公众号 [Tony有话说](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/image-20220619165119970.png) 目前同步学习相关文章，文章内容深入浅出。
 
