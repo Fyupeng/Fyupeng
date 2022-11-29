@@ -13,7 +13,7 @@
 ![Vue](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Vue.png)
 
 
-[![Fyupeng's github stats](https://github-readme-stats.vercel.app/api?username=fyupeng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=E8E8E8)](https://github.com/anuraghazra/github-readme-stats)
+[![Fyupeng's github stats](https://github-readme-stats.vercel.app/api?username=fyupeng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=FFB5C5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 开源项目
 ### 校园项目:
