@@ -4,7 +4,7 @@
 
 我的公众号 [Tony有话说](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/image-20220619165119970.png) 目前同步学习相关文章，文章内容深入浅出。
 
-### 技术栈
+### Languages and Tools:
 <p>  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -26,6 +26,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 </p>
 
+### Github State:
 
 [![Fyupeng's github stats](https://github-readme-stats.vercel.app/api?username=fyupeng&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=F8F8FF)](https://github.com/anuraghazra/github-readme-stats)
 
