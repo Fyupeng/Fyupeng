@@ -13,6 +13,7 @@
 ![Vue](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Vue.png)
 
 <!--START_SECTION:waka-->
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 <!--END_SECTION:waka-->
 
 ### 开源项目
