@@ -12,7 +12,7 @@
 ![SpringBoot](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/SpringBoot.png)
 ![Vue](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Vue.png)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=fyupeng)
 
 
 
