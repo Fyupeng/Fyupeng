@@ -21,7 +21,7 @@
 </p>
 
 
-[![Fyupeng's github stats](https://github-readme-stats.vercel.app/api?username=fyupeng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=FFFAFA)](https://github.com/anuraghazra/github-readme-stats)
+[![Fyupeng's github stats](https://github-readme-stats.vercel.app/api?username=fyupeng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=F8F8FF)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 开源项目
 ### 校园项目:
