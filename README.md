@@ -5,12 +5,19 @@
 我的公众号 [Tony有话说](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/image-20220619165119970.png) 目前同步学习相关文章，文章内容深入浅出。
 
 ### 技术栈
-![Springboot](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Spring.png)![MySQL](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/MySQL.png)![Java](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Java.png)
-![Redis](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Redis.png)
-![MongoDB](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/MongoDB.png)
+<p>  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 
-![SpringBoot](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/SpringBoot.png)
-![Vue](https://yupeng-tuchuang.oss-cn-shenzhen.aliyuncs.com/Vue.png)
+</p>
 
 
 [![Fyupeng's github stats](https://github-readme-stats.vercel.app/api?username=fyupeng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=FFB5C5)](https://github.com/anuraghazra/github-readme-stats)
