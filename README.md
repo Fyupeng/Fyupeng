@@ -30,8 +30,8 @@
 
 [![Fyupeng's github stats](https://github-readme-stats.vercel.app/api?username=fyupeng&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=F8F8FF)](https://github.com/anuraghazra/github-readme-stats)
 
-### 开源项目
-### 校园项目:
+### Open Source Projects:
+
 - 基于`SpringBoot` + `Rpc-Netty-Framework`的[分布式博客](https://github.com/fyupeng/distributed-blog-system-api)管理后端api项目
 - 基于 `Nacos` 的 [RPC](https://github.com/Fyupeng/rpc-netty-framework) 分布式微服务框架
 - 基于 `ZooKeeper` 注册中心的 短视频微信小程序 [api 接口](https://github.com/Fyupeng/tony-videos-dev) 和 [后台管理](https://github.com/fyupeng/tony-videos-admin) 项目
@@ -40,7 +40,7 @@
 - 基于主流框架 `SpringBoot` 的含有植物鉴别功能的 [博客](https://github.com/Fyupeng/crop-multi-api) 管理系统
 
 
-### 博客学习平台：
+### My Learning Blog：
 - [hexo 个性化博客](http://lhx.cool/)（综合性博客，包括面经、`Java`笔记、Java学习框架、算法等等）
 
 - [CSDN](https://blog.csdn.net/F15217283411)（侧重点学习遇到的难题如何解决的点滴记录、环境部署遇到的问题、算法刷题等等）
